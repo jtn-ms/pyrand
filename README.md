@@ -6,6 +6,7 @@ This tool was built on the purpose of generating random data for API test. Pytho
 pip install -r requirements.txt
 
 [generate]
+python user.py
 ```
 ### Ref
 - data loaded from [DataBase](https://github.com/navchandar/Python-Random-Name-Generator)
